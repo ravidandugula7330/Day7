@@ -1,0 +1,43 @@
+nested ternary operator
+=====================
+syntax:
+--------------
+
+(condition)?exp1:((condition)?exp2:(condition)?:exp3:exp4);
+==================================================
+
+shop 
+------------
+purchase>100 20% discount.
+purchase>50 and 100 10% discount.
+purchase<50 0% discount.
+
+
+what are differences between JVM,JRE,JDK
+------------------------------------------
+JVM(java virtual machine)
+--------------------------
+responsible for executing java byte code.
+it provides platform independent(wora).
+performs JIT(just in time) compilation for faster execution .
+it handles memory management and garbage collection.
+memory area like heap , stac, method area, pc registers, native method stacks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
