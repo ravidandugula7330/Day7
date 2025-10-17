@@ -24,6 +24,23 @@ it handles memory management and garbage collection.
 memory area like heap , stac, method area, pc registers, native method stacks.
 
 
+JRE: JVM+libraries Set
+=====================================================
+provides libraries, classes, and other files need to run java programs.
+cohtains JVM-core libraries.
+doesn't include compiler or tools for development
+
+
+
+JDK-> JVM+JRE+developer tools
+================================================================
+Includes everything in JRE, plus development tools
+javac (compiler)
+javadoc (documentalton generator)
+used by developers to create and compile and debug java application.
+jar(arcchiver)
+you only want to run a java application-->JRE. you want to develop and run java programs--> JDK.
+you want to explain or visualixe execution--> JVM.
 
 
 
@@ -39,5 +56,3 @@ memory area like heap , stac, method area, pc registers, native method stacks.
 
 
 
-
-5
